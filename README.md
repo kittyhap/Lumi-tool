@@ -1,11 +1,8 @@
-# Lumi-tool
-its a tool for using in terminal Can be used for detecting cheats in Minecraft and its a list of tools of MeowTools/spoks/redlotus and things like that it has service checker + guide book for what does what im still making it better 
+# Lumi-Tools pink edition
+Terminal toolkit for Minecraft screensharing - cheat detection links, PowerShell runner, service checker + guide book.
 
-paste this to powershell and it will work 
-```powershell -ExecutionPolicy Bypass -Command "Invoke-Expression (Invoke-RestMethod 'https://gist.githubusercontent.com/kittyhap/d0dcca63e15f9af3220c5d06b37a87c3/raw/LummiShredder.ps1')"
-```
+MeowTools / Spokwn / RedLotus / Jarabel in one pink menu with cat. Still adding more.
 
-
-short vers = 
-```irm 'https://gist.githubusercontent.com/kittyhap/d0dcca63e15f9af3220c5d06b37a87c3/raw/LummiShredder.ps1' | iex
-```
+### Run it - paste this in PowerShell
+```powershell
+powershell -ExecutionPolicy Bypass -Command "Invoke-Expression (Invoke-RestMethod 'https://gist.githubusercontent.com/kittyhap/2b54b28081f01a3ad6c61e07d54af527/raw/LummiTools.ps1')"
